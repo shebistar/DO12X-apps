@@ -39,7 +39,7 @@ spec:
           location: eastus
           metadata:
             creationTimestamp: null
-          networkResourceGroup: aro-rg
+          networkResourceGroup: `<change_me>`
           osDisk:
             diskSettings: {}
             diskSizeGB: 128
